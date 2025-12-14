@@ -1,0 +1,32 @@
+body {
+  background-color: rgb(18, 15, 15);
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;     
+  color: white;
+}
+
+.nav {
+background-color: rgba(194, 194, 210, 0.5);
+display: flex;
+justify-content: space-around;
+align-items: center;
+margin: 0 500px 0 500px;
+border-radius: 50px;
+margin-top: 20px;
+}
+.nav .nav-ul {
+
+  list-style: none;
+  display: flex;
+  gap: 50px;
+  color: white;
+  font-size: 20px;
+}
+
+.h1 {
+  text-align: center;
+  margin-top: 200px;
+  font-size: 50px;
+}
+
